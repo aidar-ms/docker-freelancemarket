@@ -1,0 +1,14 @@
+.container .small {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.row .separator {
+    border-top: 1px solid grey;
+    height: 25px;
+}
+
+.fl-info p {
+    display: block;
+    padding: 5px;
+}
